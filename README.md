@@ -148,6 +148,7 @@ void loop()
   ThingSpeak.writeField(myChannelField, ChannelField, distanceCM, myWriteAPIKey);
   delay(1000);
 }
+```
 # CIRCUIT DIAGRAM:
 
 ![image](https://github.com/user-attachments/assets/33211705-6aa8-4175-8481-2b61e5155dcb)
